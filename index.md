@@ -1,3 +1,3 @@
 #Hello World
 
-Hi
+## Download notes on [the mathematics of UMAP](files/Maths_of_UMAP.pdf)

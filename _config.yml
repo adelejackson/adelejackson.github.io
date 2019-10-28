@@ -23,7 +23,7 @@ github_username:  adelejackson
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

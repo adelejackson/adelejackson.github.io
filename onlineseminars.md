@@ -16,3 +16,12 @@ Where the time zone is not specified, it is the local time.
 - MIT Topology Seminar (4:30pm Boston Mondays) [link](https://math.mit.edu/topology/index.html)
 - Princeton Topology seminar (Thursdays 4:30pm) [link](https://www.math.princeton.edu/events/seminars/topology-seminar)
 - New York Group Theory seminar (5pm EST Thursdays) [link](https://sites.google.com/site/nygrouptheory/new-york-group-theory-seminar/spring-2020)
+
+Some other seminar lists by subject:
+- [Algebraic combinatorics](http://dermenjian.com/seminars/)
+- [Group Theory](https://nato.li/grouptheory)
+- [Logic](http://miguelmath.com/webminars.html)
+
+Broader mathematical seminar lists:
+- [Ao Sun and Mingchen Xia's calendar](http://math.mit.edu/~aosun/online_seminars.html)
+- [Dan Isaksen's list](https://s.wayne.edu/isaksen/online-mathematics-seminars/)

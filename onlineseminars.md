@@ -15,6 +15,7 @@ Where the time zone is not specified, it is the local time.
 - Applied algebraic topology research network (12pm ET, Wednesdays) [link](https://topology.ima.umn.edu/seminars)
 - Western Hemisphere Virtual Symplectic Seminar (Fridays 9am + 12pm PT) [link](https://docs.google.com/document/d/1O_x9dLdmw9F4grTzCPLOKnGeuKeyW5B8ev4H6UxK7j0/edit?usp=sharing)
 - Gauge Theory Virtual (Thursdays 12pm MT) [link](https://gaugetheoryvirtual.wordpress.com/seminar-page/)
+- Columbia Geometric Topology seminar (2pm ET, Fridays) [link](http://www.math.columbia.edu/~gtseminar/)
 - Harvard Informal Geometry and Dynamics seminar (4pm Boston time, Wednesdays) [link](http://people.math.harvard.edu/~yqzhang/sem/) (not sure how often this occurs)
 - MIT Topology Seminar (4:30pm Boston Mondays) [link](https://math.mit.edu/topology/index.html)
 - Princeton Topology seminar (Thursdays 4:30pm) [link](https://www.math.princeton.edu/events/seminars/topology-seminar)

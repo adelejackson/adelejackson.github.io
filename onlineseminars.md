@@ -6,6 +6,7 @@ These are ordered by time of day in UTC to help you figure out which ones are fe
 Where the time zone is not specified, it is the local time.
 
 - Monash Topology Seminar (12pm AEST Wednesdays) [link](https://calendar.google.com/calendar/embed?src=jmo2uig3blsmgsqos8ligtqcd0@group.calendar.google.com&ctz=Australia/Hobart)
+- Advanced Topics in Topology online course: Global homotopy theory (Lectures pre-recorded; discussion section at 10:15am CEST) [link](http://www.math.uni-bonn.de/people/schwede/global.html)
 - Knot-Online Seminar (2pm CET, Thursdays) [link](https://lrobert.perso.math.cnrs.fr/kos.html)
 - Online Algebraic Topology seminar (3pm BST Mondays) [link](https://sites.google.com/view/nialltaggartmath/oats)
 - Groups + Geometry, Geneva (4:30pm Tuesdays, Geneva time) [link](https://www.unige.ch/math/fr/annonces/groupes-geometrie/)

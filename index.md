@@ -4,8 +4,7 @@
 I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/).
 Before this, I most recently worked at the Machine Learning Research Group, Data61, CSIRO in Australia, after completing my undergraduate degree at the Australian National University.
 
-I am particularly interested in low-dimensional and geometric topology.
-I am also interested in the mathematical foundations of machine learning and topological data analysis.
+I am interested in low-dimensional and geometric topology, and in particular in triangulation complexity and the mapping class group.
 
 My email is [firstname].[lastname]@maths.ox.ac.uk.
 

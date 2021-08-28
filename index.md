@@ -2,9 +2,15 @@
 I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/).
 Before this, I most recently worked at the Machine Learning Research Group, Data61, CSIRO in Australia, after completing my undergraduate degree at the Australian National University.
 
-I am interested in low-dimensional and geometric topology, and in particular in triangulation complexity and the mapping class group.
+I am working on the triangulation complexity of three-manifolds.
+I study how the geometric or topological structures on three-manifolds interact with minimal triangulations of them.
+I am also interested in how Morse structures on surfaces can inform us about the mapping class group.
 
 My email is [firstname].[lastname]@maths.ox.ac.uk.
+
+### Recorded talks
+
+Watch my talk on the [triangulation complexity of mapping tori](https://www.youtube.com/watch?v=zcdl9e1jyik) from the inaugural talk in Graduate Talks in Geometry and Topology in March 2021
 
 ### Things I've written
 
@@ -24,6 +30,3 @@ The mapping class group is an important algebraic invariant of a surface. Presen
 
 [I was interviewed about my mathematical interests for Plus magazine.](https://plus.maths.org/content/young-research-adele-jackson)
 
-### Recorded talks
-
-Watch my talk on the [triangulation complexity of mapping tori](https://www.youtube.com/watch?v=zcdl9e1jyik) from the inaugural talk in Graduate Talks in Geometry and Topology in March 2021

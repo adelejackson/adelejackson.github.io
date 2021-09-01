@@ -19,14 +19,15 @@ show_downloads: false
 description: "" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adelejackson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  adelejackson
+#github_username:  adelejackson
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - learnmore.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

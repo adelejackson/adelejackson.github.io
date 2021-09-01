@@ -1,4 +1,8 @@
-## Research Talks and Outreach
+---
+layout: page
+title: Research talks and outreach
+permalink: /learnmore/
+---
 
 ### Recorded talks
 

@@ -1,5 +1,8 @@
 <img src="files/adele.jpg" width=140 height=150 alt="Head shot">
 
+*TOC
+{:toc}
+
 I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/).
 
 I am working on the triangulation complexity of three-manifolds.

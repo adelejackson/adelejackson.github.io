@@ -1,4 +1,4 @@
-## Learn more
+## Research Talks and Outreach
 
 ### Recorded talks
 

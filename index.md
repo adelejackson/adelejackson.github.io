@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /home/
+permalink: /
 ---
 
 <img src="files/adele.jpg" width=140 height=150 alt="Head shot">

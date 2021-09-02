@@ -17,6 +17,7 @@ Before this, I worked at the Machine Learning Research Group, Data61, CSIRO in A
 
 ### Places you might see me
 - MATRIX/Oberwolfach Workshop on Invariants and Structures in Low-Dimensional Topology, September 2021
+- University of Queensland Pure Math Seminar, 8 September 2021
 - Young Topologists Meeting, July 2021
 - Nearly Carbon Neutral Geometry and Topology Conference, June 2021
 

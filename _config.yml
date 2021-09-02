@@ -27,6 +27,7 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
+  - index.md
   - learnmore.md
 
 # Exclude from processing.

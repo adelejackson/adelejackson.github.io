@@ -8,6 +8,8 @@ permalink: /learnmore/
 
 Watch my talk on the [triangulation complexity of mapping tori](https://www.youtube.com/watch?v=zcdl9e1jyik) from the inaugural talk in Graduate Talks in Geometry and Topology in March 2021.
 
+I gave a [talk on related material](https://www.youtube.com/watch?v=hiYoG8YrVvk&list=PLsI59GhuoupLzE3rvHI8ZBaJvaISp06ox&index=17) at the Young Topologists Meeting in July 2021.
+
 ### Things I've written
 
 #### UMAP
@@ -22,7 +24,8 @@ I wrote [my honours thesis](https://tqft.net/web/research/students/AdeleJackson/
 The mapping class group is an important algebraic invariant of a surface. Presentations of this group have wide applications to low-dimensional topology. I explicitly constructed [Hatcher and Thurston's finite presentation](https://pi.math.cornell.edu/~hatcher/Papers/MCGpresentation.pdf) with Dehn twist generators for genus one and two surfaces. I also extended [Bene's chord slide generators](https://arxiv.org/abs/0802.2747) from surfaces with connected boundary to those with disconnected boundary. This presentation arises from studying a cell decomposition of Teichmüller space whose vertices are fatgraph decorations of surfaces.The resulting fatgraph presentation of the mapping class group can be converted to one with chord slide generators. This chord slide presentation has potential applications to computing bordered Heegaard Floer invariants for open books with disconnected binding.
 
 
-### Interviews for a general audience
+### Publicity
 
 [I was interviewed about my mathematical interests for Plus magazine.](https://plus.maths.org/content/young-research-adele-jackson)
 
+[I was interviewed as part of the publicity around the 2019 Heidelberg Laureate Forum.](https://scilogs.spektrum.de/hlf/10-out-of-200-of-cats-and-donuts-adele-jackson-uses-topology-to-tackle-classification-problems/)

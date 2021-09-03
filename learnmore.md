@@ -6,7 +6,7 @@ permalink: /learnmore/
 
 ### Recorded talks
 - March 2021, Graduate Talks in Geometry and Topology (online seminar in Australia) ([recording](https://www.youtube.com/watch?v=zcdl9e1jyik))
-- July 2021, Young Topologists Meeting ([recording](https://www.youtube.com/watch?v=hiYoG8YrVvk&list=PLsI59GhuoupLzE3rvHI8ZBaJvaISp06ox&index=17)) ([slides](files/YTM_2021_slides.pdf))
+- July 2021, Young Topologists Meeting ([recording](https://www.youtube.com/watch?v=hiYoG8YrVvk&list=PLsI59GhuoupLzE3rvHI8ZBaJvaISp06ox&index=17)) ([slides](/files/YTM_2021_slides.pdf))
 
 ### Notes and projects
 

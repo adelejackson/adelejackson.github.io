@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<img src="files/adele.jpg" width=140 height=150 alt="Head shot">
+<img src="files/adele.jpg" width=160 height=172 alt="Head shot">
 
 I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/).
 

@@ -14,8 +14,8 @@ I am currently working on algorithms around Seifert fibered spaces.
 My email is [firstname].[lastname]@maths.ox.ac.uk.
 
 ### Preprints
-- __Minimal triangulation size of Seifert fibered spaces with boundary.__ [author's version](files/papers/AJackson_SFS_Triangulation_bound.pdf) [arXiv:2301.02085](https://arxiv.org/abs/2301.02085)
-- _with Jack Brand, Benjamin A. Burton, Zsuzsanna Dancso, Alexander He, and Joan Licata._ __Arc diagrams on 3-manifold spines.__ [author's version](files/papers/MFO_MATRIX_Knot_Projections.pdf) [arXiv:2202.02007](https://arxiv.org/abs/2202.02007)
+- __Minimal triangulation size of Seifert fibered spaces with boundary.__ [(author's version)](files/papers/AJackson_SFS_Triangulation_bound.pdf) [(arXiv:2301.02085)](https://arxiv.org/abs/2301.02085)
+- _with Jack Brand, Benjamin A. Burton, Zsuzsanna Dancso, Alexander He, and Joan Licata._ __Arc diagrams on 3-manifold spines.__ [(author's version)](files/papers/MFO_MATRIX_Knot_Projections.pdf) [(arXiv:2202.02007)](https://arxiv.org/abs/2202.02007)
 
 
 <iframe src="https://drive.google.com/file/d/1rBSK-RpvHIh5lJUbmuUpR41mBBY6u-9J/preview" width="640" height="480" allow="autoplay"></iframe>

@@ -6,7 +6,7 @@ permalink: /
 
 <img src="files/profile_2023.jpg" alt="Headshot of me. Photo credit: Stefan Friedl." title="Headshot of me. Photo credit: Stefan Friedl." width=197 height=172 >
 
-I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/). I will be on the job market later this year.
+I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/). I expect to defend my thesis in spring 2024.
 
 I am broadly interested in low-dimensional topology, geometric group theory and algorithms.
 I am currently working on algorithms around Seifert fibered spaces.

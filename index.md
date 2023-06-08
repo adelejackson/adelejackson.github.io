@@ -14,6 +14,7 @@ I am currently working on algorithms around Seifert fibered spaces.
 My email is [firstname].[lastname]@maths.ox.ac.uk.
 
 ### Preprints
+- __Recognition of Seifert fibered spaces with boundary is in NP.__ [(author's version)](papers/AJackson_SFS_recognition_with_boundary.pdf) [(arXiv:2306.04612)](https://arxiv.org/abs/2306.04612)
 - __Minimal triangulation size of Seifert fibered spaces with boundary.__ [(author's version)](papers/AJackson_SFS_Triangulation_bound.pdf) [(arXiv:2301.02085)](https://arxiv.org/abs/2301.02085)
 - _with Jack Brand, Benjamin A. Burton, Zsuzsanna Dancso, Alexander He, and Joan Licata._ __Arc diagrams on 3-manifold spines.__ [(author's version)](papers/MFO_MATRIX_Knot_Projections.pdf) [(arXiv:2202.02007)](https://arxiv.org/abs/2202.02007)
 

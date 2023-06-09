@@ -3,7 +3,6 @@ layout: page
 title: Home
 permalink: /
 ---
-
 <img src="files/profile_2023.jpg" alt="Headshot of me. Photo credit: Stefan Friedl." title="Headshot of me. Photo credit: Stefan Friedl." width=197 height=172 >
 
 I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/). I expect to defend my thesis in early 2024.
@@ -12,6 +11,20 @@ I am broadly interested in low-dimensional topology, geometric group theory and 
 I am currently working on algorithms around Seifert fibered spaces.
 
 My email is [firstname].[lastname]@maths.ox.ac.uk.
+
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-8666-2827"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-8666-2827
+    </a>
 
 ### Preprints
 - __Recognition of Seifert fibered spaces with boundary is in NP.__ [(author's version)](papers/AJackson_SFS_recognition_with_boundary.pdf) [(arXiv:2306.04612)](https://arxiv.org/abs/2306.04612)

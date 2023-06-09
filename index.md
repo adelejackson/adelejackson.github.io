@@ -34,7 +34,8 @@ My email is [firstname].[lastname]@maths.ox.ac.uk.
 ### Places you may have seen me
 - *Around 3-manifold groups*, Montréal, June 2023
 - *Computational problems in low-dimensional topology III*, Rutgers-Newark, April 2023
-- *AGATA seminar*, Warwick, March 2023
-- *Geometry and Topology seminar*, Bristol, March 2023
+- *AGATA seminar*, University of Warwick, March 2023
+- *Geometry and Topology seminar*, University of Bristol, March 2023
 - *Young geometric group theory XI*, Münster, February 2023
+- *Geometry and Topology seminar*, Université du Luxembourg, February 2023
 - *Low-dimensional topology*, Oberwolfach, January 2023

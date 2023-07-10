@@ -32,6 +32,7 @@ My email is [firstname].[lastname]@maths.ox.ac.uk.
 - _with Jack Brand, Benjamin A. Burton, Zsuzsanna Dancso, Alexander He, and Joan Licata._ __Arc diagrams on 3-manifold spines.__ [(author's version)](papers/MFO_MATRIX_Knot_Projections.pdf) [(arXiv:2202.02007)](https://arxiv.org/abs/2202.02007)
 
 ### Recent travel
+- *Group Actions and Low-Dimensional Topology*, El Barco de Ávila, July 2023
 - *International Young Seminar on Bounded Cohomology and Simplicial Volume*, June 2023
 - *Around 3-manifold groups*, Montréal, June 2023
 - *Computational problems in low-dimensional topology III*, Rutgers-Newark, April 2023

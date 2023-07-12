@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Home
 permalink: /
 ---
 <img src="files/profile_2023.jpg" alt="Headshot of me. Photo credit: Stefan Friedl." title="Headshot of me. Photo credit: Stefan Friedl." width=197 height=172 >

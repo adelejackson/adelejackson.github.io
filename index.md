@@ -9,7 +9,7 @@ I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/top
 I am broadly interested in low-dimensional topology, geometric group theory and algorithms.
 I am currently working on algorithms around Seifert fibered spaces.
 
-My CV can be found [here](files/AJackson_CV.pdf) (last updated 12/07/23).
+My CV can be found [here](files/AJackson_CV.pdf) (last updated October 2023).
 
 My email is [firstname].[lastname]@maths.ox.ac.uk.
 

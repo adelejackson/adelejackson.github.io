@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Adele Jackson
-logo: files/adele.jpg
+logo: files/Farey.pdf
 google_analytics: G-WMHLPW1QBM
 show_downloads: false
 description: "" # this means to ignore newlines until "baseurl:"

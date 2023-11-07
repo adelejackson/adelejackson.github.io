@@ -4,7 +4,7 @@ title: Research talks and outreach
 permalink: /talks/
 ---
 
-<a href="files/Farey.pdf"><img src="files/Farey.jpg" alt="The Farey triangulation of the hyperbolic plane." title="The Farey triangulation of the hyperbolic plane." width=300 height=300 ></a>
+<a href="../files/Farey.pdf"><img src="../files/Farey.jpg" alt="The Farey triangulation of the hyperbolic plane." title="The Farey triangulation of the hyperbolic plane." width=300 height=300 ></a>
 
 ### Recorded talks
 - March 2021, Graduate Talks in Geometry and Topology (online seminar in Australia) ([recording](https://www.youtube.com/watch?v=zcdl9e1jyik))

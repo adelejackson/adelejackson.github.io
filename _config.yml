@@ -24,10 +24,9 @@ url: "https://adelejackson.github.io" # the base hostname & protocol for your si
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
-markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+- jekyll-remote-theme
+markdown: kramdown
 header_pages:
   - index.md
   - learnmore.md

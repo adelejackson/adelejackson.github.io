@@ -23,9 +23,9 @@ url: "https://adelejackson.github.io" # the base hostname & protocol for your si
 #github_username:  adelejackson
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme
+- jekyll-feed
 markdown: kramdown
 header_pages:
   - index.md

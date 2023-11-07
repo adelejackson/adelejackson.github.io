@@ -23,7 +23,7 @@ url: "https://adelejackson.github.io" # the base hostname & protocol for your si
 #github_username:  adelejackson
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
 - jekyll-feed
 markdown: kramdown

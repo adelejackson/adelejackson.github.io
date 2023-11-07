@@ -4,11 +4,7 @@ title: Research talks and outreach
 permalink: /talks/
 ---
 
-<object data="http://adelejackson.com/files/Farey.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="[http://adelejackson.com/files/Farey.pdf](http://adelejackson.com/files/Farey.pdf)">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="[http://adelejackson.com/files/Farey.pdf](http://adelejackson.com/files/Farey.pdf)">Download PDF</a>.</p>
-    </embed>
-</object>
+<a href="files/Farey.pdf"><img src="files/Farey.jpg" alt="The Farey triangulation of the hyperbolic plane." title="The Farey triangulation of the hyperbolic plane." width=300 height=300 ></a>
 
 ### Recorded talks
 - March 2021, Graduate Talks in Geometry and Topology (online seminar in Australia) ([recording](https://www.youtube.com/watch?v=zcdl9e1jyik))

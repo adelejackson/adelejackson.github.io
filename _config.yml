@@ -23,13 +23,15 @@ url: "https://adelejackson.github.io" # the base hostname & protocol for your si
 #github_username:  adelejackson
 
 # Build settings
+remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 header_pages:
   - index.md
   - learnmore.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

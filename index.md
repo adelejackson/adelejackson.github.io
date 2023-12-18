@@ -4,7 +4,7 @@ permalink: /
 ---
 <img src="files/profile_2023.jpg" alt="Headshot of me. Photo credit: Stefan Friedl." title="Headshot of me. Photo credit: Stefan Friedl." width=197 height=172 >
 
-I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/). I expect to defend my thesis in early 2024.
+I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/). I will defend my thesis in early 2024. In February I will be moving to the University of Sydney, Australia.
 
 I am broadly interested in low-dimensional topology, geometric group theory and algorithms.
 I am currently working on algorithms around Seifert fibered spaces.
@@ -33,6 +33,13 @@ My email is [firstname].[lastname]@maths.ox.ac.uk.
 - _with Jack Brand, Benjamin A. Burton, Zsuzsanna Dancso, Alexander He, and Joan Licata._ __Arc diagrams on 3-manifold spines.__ *Discrete Comput. Geom.* (2023) [(journal version)](https://link.springer.com/article/10.1007/s00454-023-00539-4) [(arXiv:2202.02007)](https://arxiv.org/abs/2202.02007)
 
 ### Recent travel
+- *Oberseminar Geometric Group Theory*, Universität Bonn, December 2023
+- *Séminaire Algorithmique Discrète et Applications*, Laboratoire d'Informatique Gaspard-Monge, Paris, December 2023
+- *Baby Geometri seminar*, Scuola Normale Superiore/Università di Pisa, November 2023
+- *Topology seminar*, University of Southampton, November 2023
+- *Geometry and Topology seminar*, University of Warwick, November 2023
+- *Groups and Geometry in the South East*, London, October 2023
+- *Swiss Knots*, Regensburg, September 2023
 - *Group Actions and Low-Dimensional Topology*, El Barco de Ávila, July 2023
 - *International Young Seminar on Bounded Cohomology and Simplicial Volume*, June 2023
 - *Around 3-manifold groups*, Montréal, June 2023

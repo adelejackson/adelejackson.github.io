@@ -11,7 +11,7 @@ I am currently working on algorithms around Seifert fibered spaces.
 
 My CV can be found [here](files/AJackson_CV.pdf) (last updated October 2023).
 
-My email is [firstname].[lastname]@maths.ox.ac.uk.
+My email is [firstname].[lastname]@lincoln.ox.ac.uk.
 
 <a
     id="cy-effective-orcid-url"

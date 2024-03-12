@@ -7,7 +7,7 @@ permalink: /
 I am a postdoc in the [geometry and topology group](https://www.sydney.edu.au/science/our-research/research-areas/mathematics-and-statistics/geometry-topology.html) at the University of Sydney, Australia.
 I am broadly interested in low-dimensional topology, geometric group theory and algorithms.
 
-My CV can be found [here](files/AJackson_CV.pdf) (last updated October 2023).
+My CV can be found [here](files/AJackson_CV.pdf) (last updated March 2024).
 
 My email is [firstname].[lastname]@sydney.edu.au.
 

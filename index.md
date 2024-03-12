@@ -4,14 +4,12 @@ permalink: /
 ---
 <img src="files/profile_2023.jpg" alt="Headshot of me. Photo credit: Stefan Friedl." title="Headshot of me. Photo credit: Stefan Friedl." width=197 height=172 >
 
-I am a PhD student in the [topology group](https://www.maths.ox.ac.uk/groups/topology) at the University of Oxford, supervised by [Marc Lackenby](http://people.maths.ox.ac.uk/lackenby/). I will defend my thesis in early 2024. In February I will be moving to the University of Sydney, Australia.
-
+I am a postdoc in the [geometry and topology group](https://www.sydney.edu.au/science/our-research/research-areas/mathematics-and-statistics/geometry-topology.html) at the University of Sydney, Australia.
 I am broadly interested in low-dimensional topology, geometric group theory and algorithms.
-I am currently working on algorithms around Seifert fibered spaces.
 
 My CV can be found [here](files/AJackson_CV.pdf) (last updated October 2023).
 
-My email is [firstname].[lastname]@lincoln.ox.ac.uk.
+My email is [firstname].[lastname]@sydney.edu.au.
 
 <a
     id="cy-effective-orcid-url"

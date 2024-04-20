@@ -32,6 +32,8 @@ My email is [firstname].[lastname]@sydney.edu.au.
 - __Seifert fibered spaces: triangulation and recognition__ (PhD thesis). [(version of record)](http://dx.doi.org/10.5287/ora-o1oprj8zn)
 
 ### Recent travel
+- *Colloquium*, Australian National University, April 2024
+- *Junior Geometry seminar*, Kings College London/University College London, January 2024
 - *Oberseminar Geometric Group Theory*, Universität Bonn, December 2023
 - *Séminaire Algorithmique Discrète et Applications*, Laboratoire d'Informatique Gaspard-Monge, Paris, December 2023
 - *Baby Geometri seminar*, Scuola Normale Superiore/Università di Pisa, November 2023

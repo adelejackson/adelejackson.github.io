@@ -4,7 +4,7 @@ title: Research talks and outreach
 permalink: /talks/
 ---
 
-<div style:"width: 100%;">
+<div style="width:100%">
     <span style="float: left;">
         <img src="../files/parallelity.pdf" alt="The boundary of the parallelity bundle." title="The boundary of the parallelity bundle." style="max-width: 100%; height:auto;">
     </span>

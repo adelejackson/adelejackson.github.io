@@ -26,12 +26,13 @@ My email is [firstname].[lastname]@sydney.edu.au.
     </a>
 
 ### Preprints and papers
-- __Recognition of Seifert fibered spaces with boundary is in NP.__ [(author's version)](papers/AJackson_SFS_recognition_with_boundary.pdf) [(arXiv:2306.04612)](https://arxiv.org/abs/2306.04612)
+- __Recognition of Seifert fibered spaces with boundary is in NP.__ *Math. Ann. (accepted)* [(author's version)](papers/AJackson_SFS_recognition_with_boundary.pdf) [(arXiv:2306.04612)](https://arxiv.org/abs/2306.04612)
 - __Minimal triangulation size of Seifert fibered spaces with boundary.__ [(author's version)](papers/AJackson_SFS_Triangulation_bound.pdf) [(arXiv:2301.02085)](https://arxiv.org/abs/2301.02085) [(extended abstract from Oberwolfach talk)](https://publications.mfo.de/handle/mfo/4015)
 - _with Jack Brand, Benjamin A. Burton, Zsuzsanna Dancso, Alexander He, and Joan Licata._ __Arc diagrams on 3-manifold spines.__ *Discrete Comput. Geom.* (2023) [(journal version)](https://link.springer.com/article/10.1007/s00454-023-00539-4) [(arXiv:2202.02007)](https://arxiv.org/abs/2202.02007)
 - __Seifert fibered spaces: triangulation and recognition__ (PhD thesis). [(version of record)](http://dx.doi.org/10.5287/ora-o1oprj8zn)
 
 ### Recent travel
+- *Low-Dimensional Topology: Invariants of Links, Homology Theories, and Complexity*, MATRIX, June 2024
 - *Colloquium*, Australian National University, April 2024
 - *Junior Geometry seminar*, Kings College London/University College London, January 2024
 - *Oberseminar Geometric Group Theory*, Universität Bonn, December 2023

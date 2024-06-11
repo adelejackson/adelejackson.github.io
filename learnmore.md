@@ -7,7 +7,7 @@ permalink: /talks/
 <div style="width:100%">
         <img src="../files/parallelity.pdf" alt="The boundary of the parallelity bundle." title="The boundary of the parallelity bundle." width="300">
     <span style="float: right;">
-        <img src="../files/ann_simp.pdf" alt="The setup for an annular simplification." title="The setup for an annular simplification." width="300">
+        <img src="../files/ann_simp.pdf" alt="The setup for an annular simplification." title="The setup for an annular simplification." width="450">
     </span>
     <span style="float: left;">
     <a href="../files/Farey.pdf"><img src="../files/Farey.jpg" alt="The Farey triangulation of the hyperbolic plane." title="The Farey triangulation of the hyperbolic plane." width="300"></a>

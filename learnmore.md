@@ -5,9 +5,7 @@ permalink: /talks/
 ---
 
 <div style="width:100%">
-    <span style="float: left;">
         <img src="../files/parallelity.pdf" alt="The boundary of the parallelity bundle." title="The boundary of the parallelity bundle." style="max-width: 100%; height:auto;">
-    </span>
     <span style="float: right;">
         <img src="../files/ann_simp.pdf" alt="The setup for an annular simplification." title="The setup for an annular simplification." style="max-width:100%; height:auto;">
     </span>

@@ -6,13 +6,13 @@ permalink: /talks/
 
 <div>
     <span style="float: left;">
-    <a href="../files/Farey.pdf"><img src="../files/Farey.jpg" alt="The Farey triangulation of the hyperbolic plane." title="The Farey triangulation of the hyperbolic plane." width=300 height=300 ></a>
+    <a href="../files/Farey.pdf"><img src="../files/Farey.jpg" alt="The Farey triangulation of the hyperbolic plane." title="The Farey triangulation of the hyperbolic plane." style="max-width:100%; height:auto;"></a>
     </span>
     <span style="float: right;">
-        <img src="../files/ann_simp.pdf" alt="The setup for an annular simplification." title="The setup for an annular simplification." width=513 height=300 >
+        <img src="../files/ann_simp.pdf" alt="The setup for an annular simplification." title="The setup for an annular simplification." style="max-width:100%; height:auto;">
     </span>
     <span style="float: left;">
-        <img src="../files/parallelity.pdf" alt="The boundary of the parallelity bundle." title="The boundary of the parallelity bundle." width=378 height=300 >
+        <img src="../files/parallelity.pdf" alt="The boundary of the parallelity bundle." title="The boundary of the parallelity bundle." style="max-width:100%; height:auto;">
     </span>
 </div>
 

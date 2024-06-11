@@ -16,7 +16,7 @@ permalink: /talks/
     </span>
 </div>
 
----
+<div style="clear: both;">
 
 ### Recorded talks
 - March 2021, Graduate Talks in Geometry and Topology (online seminar in Australia) ([recording](https://www.youtube.com/watch?v=zcdl9e1jyik))
@@ -26,3 +26,4 @@ permalink: /talks/
 
 - [UMAP](https://github.com/lmcinnes/umap/) is a new dimension reduction technique that finds a representation with similar topological properties to the original data.
 I wrote up a set of [notes on the mathematics behind UMAP](files/Maths_of_UMAP.pdf), which is mostly category theory and topology, for people who have not seen much of these before.
+</div>

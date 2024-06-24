@@ -27,7 +27,7 @@ My email is [firstname].[lastname]@sydney.edu.au.
 
 ### Preprints and papers
 - __Minimal triangulation size of Seifert fibered spaces with boundary.__ [(author's version)](papers/AJackson_SFS_Triangulation_bound.pdf) [(arXiv:2301.02085)](https://arxiv.org/abs/2301.02085) [(extended abstract from Oberwolfach talk)](https://publications.mfo.de/handle/mfo/4015)
-- __Recognition of Seifert fibered spaces with boundary is in NP.__ *Math. Ann. (2024)* [(journal version)]([papers/AJackson_SFS_recognition_with_boundary.pdf](https://link.springer.com/article/10.1007/s00208-024-02920-x)) [(arXiv:2306.04612)](https://arxiv.org/abs/2306.04612)
+- __Recognition of Seifert fibered spaces with boundary is in NP.__ *Math. Ann. (2024)* [(journal version)](https://link.springer.com/article/10.1007/s00208-024-02920-x) [(arXiv:2306.04612)](https://arxiv.org/abs/2306.04612)
 - _with Jack Brand, Benjamin A. Burton, Zsuzsanna Dancso, Alexander He, and Joan Licata._ __Arc diagrams on 3-manifold spines.__ *Discrete Comput. Geom.* (2024) [(journal version)](https://link.springer.com/article/10.1007/s00454-023-00539-4) [(arXiv:2202.02007)](https://arxiv.org/abs/2202.02007)
 - __Seifert fibered spaces: triangulation and recognition__ (PhD thesis). [(version of record)](http://dx.doi.org/10.5287/ora-o1oprj8zn)
 
